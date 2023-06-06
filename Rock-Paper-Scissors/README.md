@@ -1,4 +1,5 @@
-A project from CodeCademy's C++ introduction course:
+CodeCademy: Conditionals & Logic
+
 
 PROBLEM: Write a rock_paper_scissors.cpp program that:
 
